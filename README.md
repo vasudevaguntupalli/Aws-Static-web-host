@@ -1,10 +1,10 @@
 ## 🌐 Hosting a Static Website on AWS S3 + Route 53
 This guide explains how to host a static website (like HTML/CSS/JS files) on Amazon S3 and map it to a custom domain using AWS Route 53.
 **Prerequisites**
--> AWS Account 
--> Domain registered in Route 53 (or transfer one there) 
--> Static website files (e.g., index.html, styles.css, etc.) 
--> IAM permissions to create S3 buckets and Route 53 records
+-> AWS Account  
+-> Domain registered in Route 53 (or transfer one there)  
+-> Static website files (e.g., index.html, styles.css, etc.)   
+-> IAM permissions to create S3 buckets and Route 53 records  
 **Step 1: Register for Route 53**
 1. click on register Domain
 2. give a domain name as you want
