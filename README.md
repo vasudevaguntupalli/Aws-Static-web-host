@@ -66,3 +66,6 @@ Add the following Bucket Policy (replace YOUR_BUCKET_NAME with your bucket name)
  - Alias Region : Enter your region you are hosting.
 5. Save the record.
 6. Now go and check the website domain name in google search it is hosted or not(use the Domain Name Which you given).
+
+### Done! ###
+**Now your static website is live on your custom domain via AWS S3 and Route 53!**
